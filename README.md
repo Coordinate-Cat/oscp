@@ -12,4 +12,4 @@ Testing with Kali Linux](https://www.offsec.com/courses/pen-200/)
 setup
 - [virtual box](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 - [kali linux](https://www.kali.org/get-kali/#kali-virtual-machines)
-- [試験当日はproving grounds]https://portal.offsec.com/sign-up/pg
+- [試験当日はproving grounds](https://portal.offsec.com/sign-up/pg)
