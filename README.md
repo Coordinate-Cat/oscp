@@ -6,6 +6,7 @@ links
 Testing with Kali Linux](https://www.offsec.com/courses/pen-200/)
 - [PEN-200 (PWK): Updated for 2023](https://www.offsec.com/offsec/pen-200-2023/)
 - [ペネトレーションテストの技術を磨こう](https://techplay.jp/event/859951)
+- **[OSCP合格までの道のりとそこから学んだこと](https://blog.s-tajima.work/post/2021/oscp-journey-and-things-i-learned/)**
 - [Hack The Box](https://www.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
 
