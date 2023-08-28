@@ -9,6 +9,7 @@ Testing with Kali Linux](https://www.offsec.com/courses/pen-200/)
 - **[OSCP合格までの道のりとそこから学んだこと](https://blog.s-tajima.work/post/2021/oscp-journey-and-things-i-learned/)**
 - [Hack The Box](https://www.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
+- [OSCP受験記&勉強方法](https://bankingmalware.hatenablog.com/entry/2020/09/27/154602)
 
 - [How I Passed the OSCP in 8 Hours (On My First Attempt!)](https://www.youtube.com/watch?v=trCZB7tRTNk)
 1. Work Smarter Discord
