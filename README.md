@@ -10,7 +10,30 @@ Testing with Kali Linux](https://www.offsec.com/courses/pen-200/)
 - [Hack The Box](https://www.hackthebox.com/)
 - [TryHackMe](https://tryhackme.com/)
 
+- [How I Passed the OSCP in 8 Hours (On My First Attempt!)](https://www.youtube.com/watch?v=trCZB7tRTNk)
+1. Work Smarter Discord
+https://discord.gg/work-smarter-95600...
+
+2. TCM Security
+https://academy.tcm-sec.com/
+
+3. TryHackMe
+https://tryhackme.com/
+
+4. HTB Academy
+https://academy.hackthebox.com/
+
+5. PG Practice
+https://www.offensive-security.com/la...
+
+6. HTB 
+https://www.hackthebox.com/
+
+7. PWK Labs/PEN-200 Course
+https://www.offensive-security.com/pw...
+
 setup
 - [virtual box](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 - [kali linux](https://www.kali.org/get-kali/#kali-virtual-machines)
 - [試験当日はproving grounds](https://portal.offsec.com/sign-up/pg)
+
