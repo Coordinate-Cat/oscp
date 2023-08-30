@@ -12,25 +12,19 @@ Testing with Kali Linux](https://www.offsec.com/courses/pen-200/)
 - [OSCP受験記&勉強方法](https://bankingmalware.hatenablog.com/entry/2020/09/27/154602)
 
 - [How I Passed the OSCP in 8 Hours (On My First Attempt!)](https://www.youtube.com/watch?v=trCZB7tRTNk)
-1. Work Smarter Discord
+  1. Work Smarter Discord
 https://discord.gg/work-smarter-95600...
-
-2. TCM Security
+  2. TCM Security
 https://academy.tcm-sec.com/
-
-3. TryHackMe
+  3. TryHackMe
 https://tryhackme.com/
-
-4. HTB Academy
+  4. HTB Academy
 https://academy.hackthebox.com/
-
-5. PG Practice
+  5. PG Practice
 https://www.offensive-security.com/la...
-
-6. HTB 
+  6. HTB 
 https://www.hackthebox.com/
-
-7. PWK Labs/PEN-200 Course
+  7. PWK Labs/PEN-200 Course
 https://www.offensive-security.com/pw...
 
 setup
