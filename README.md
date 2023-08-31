@@ -1,6 +1,6 @@
 # oscp
 
-links
+## links
 - [NEC OSCP合格体験記：ペネトレーションテストの国際的認定資格へのチャレンジ](https://jpn.nec.com/cybersecurity/blog/230804/index.html)
 - [PEN-200: Penetration
 Testing with Kali Linux](https://www.offsec.com/courses/pen-200/)
@@ -27,7 +27,10 @@ https://www.hackthebox.com/
   7. PWK Labs/PEN-200 Course
 https://www.offensive-security.com/pw...
 
-setup
+## reddit
+- [Is there anyone willing the share their OSCP notes ?](https://www.reddit.com/r/oscp/comments/163pehk/is_there_anyone_willing_the_share_their_oscp_notes/)
+
+## setup
 - [virtual box](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 - [kali linux](https://www.kali.org/get-kali/#kali-virtual-machines)
 - [試験当日はproving grounds](https://portal.offsec.com/sign-up/pg)
