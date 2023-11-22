@@ -27,6 +27,14 @@ https://www.hackthebox.com/
   7. PWK Labs/PEN-200 Course
 https://www.offensive-security.com/pw...
 
+## How to install Kali Linux
+- [How to Install Kali Linux on an M1 or M2 Mac](https://www.macobserver.com/tips/how-to/install-kali-linux-m1-m2-mac/)
+  - [Official](https://www.kali.org/)
+  - [utmapp/UTM](https://github.com/utmapp/UTM)
+ 
+## resources
+
+
 ## reddit
 - [Is there anyone willing the share their OSCP notes ?](https://www.reddit.com/r/oscp/comments/163pehk/is_there_anyone_willing_the_share_their_oscp_notes/)
 
